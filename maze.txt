@@ -1,0 +1,111 @@
+Size 9 9
+
+Walls
+
+row 2 1E
+row 4 1E
+row 5 1E
+row 1 2E
+row 3 2E
+row 5 2E
+row 8 2E
+row 3 3E
+row 4 3E
+row 5 3E
+row 8 3E
+row 2 4E
+row 5 4E
+row 6 4E
+row 7 4E
+row 8 4E
+row 2 5E
+row 4 5E
+row 5 5E
+row 6 5E
+row 7 5E
+row 4 6E
+row 5 6E
+row 6 6E
+row 3 7E
+row 5 7E
+row 7 7E
+row 8 7E
+
+row 1 8E
+row 2 8E
+row 3 8E
+row 4 8E
+row 5 8E
+row 6 8E
+row 7 8E
+row 8 8E
+
+row 1 1W
+row 2 1W
+row 3 1W
+row 4 1W
+row 5 1W
+row 6 1W
+row 7 1W
+row 8 1W
+
+
+column 1 1S
+column 2 1S
+column 3 1S
+column 4 1S
+column 5 1S
+column 6 1S
+column 7 1S
+column 8 1S
+
+column 1 9S
+column 2 9S
+column 3 9S
+column 4 9S
+column 5 9S
+column 6 9S
+column 7 9S
+column 8 9S
+
+
+column 4 2S
+column 6 2S
+column 7 2S
+column 2 3S
+column 3 3S
+column 7 3S
+column 4 4S
+column 5 4S
+column 7 4S
+column 7 5S
+column 2 6S
+column 2 7S
+column 3 7S
+column 4 7S
+column 7 7S
+column 2 8S
+column 5 8S
+column 6 8S
+"
+Traps
+4 1
+6 1
+7 1
+4 2
+5 3
+2 4
+3 6
+7 6
+7 8
+"
+Start 
+3 2
+
+"
+Goals
+7 2 
+8 5
+8 8 
+6 7
+3 7
